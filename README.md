@@ -1,3 +1,4 @@
-# Placeholder README
-This file will be replaced in the build process.  The details about how to use this template
-can be found in [ABOUT.md](./ABOUT.md).
+# LinkML A really nice model
+A really nice model
+
+## [Documentation](https://hsolbrig.github.io/foo-model/)
